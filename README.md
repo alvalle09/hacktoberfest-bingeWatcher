@@ -40,7 +40,11 @@ To edit this file, you can use online editor which will open this file after you
   - [x] Sherlock
   - [x] Hawaii Five O
   - [x] The Deuce
-
+  - [x] Peaky Blinders
+  - [x] Royal Pains
+  - [x] Reign
+  - [x] Charmed  
+  
 **To-Watch:**
   - [ ] South Park
   - [ ] The Simpsons
@@ -77,3 +81,8 @@ To edit this file, you can use online editor which will open this file after you
   - [ ] The Defenders
   - [ ] Westworld
   - [ ] Teen Wolf
+  - [ ] It's Always Sunny in Philadelphia
+  - [ ] Arrow
+  - [ ] Black Mirror
+  - [ ] Master of None
+  - [ ] Salem
